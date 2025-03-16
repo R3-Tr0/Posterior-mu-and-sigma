@@ -6,7 +6,7 @@ from scipy.stats import invgamma
  
 # Generate some synthetic data
 
-# Assume true average Filipino age is 29.36 and standard deviation is 0.78 years
+# Assume prior knowledge to be true average of Filipino ages is 29.36 and standard deviation is 0.78 years
 # https://www.researchgate.net/figure/Profile-characteristics-in-healthy-Filipino-population_tbl1_351048220
 
 np.random.seed(42)
